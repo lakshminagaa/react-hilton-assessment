@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hilton-assessment/static/css/main.761f52a5.chunk.css",
+    "main.js": "/react-hilton-assessment/static/js/main.58362e78.chunk.js",
+    "main.js.map": "/react-hilton-assessment/static/js/main.58362e78.chunk.js.map",
+    "runtime~main.js": "/react-hilton-assessment/static/js/runtime~main.04e002fd.js",
+    "runtime~main.js.map": "/react-hilton-assessment/static/js/runtime~main.04e002fd.js.map",
+    "static/js/2.a1025a4c.chunk.js": "/react-hilton-assessment/static/js/2.a1025a4c.chunk.js",
+    "static/js/2.a1025a4c.chunk.js.map": "/react-hilton-assessment/static/js/2.a1025a4c.chunk.js.map",
+    "index.html": "/react-hilton-assessment/index.html",
+    "precache-manifest.890cac305557f81553792b8e132f729f.js": "/react-hilton-assessment/precache-manifest.890cac305557f81553792b8e132f729f.js",
+    "service-worker.js": "/react-hilton-assessment/service-worker.js",
+    "static/css/main.761f52a5.chunk.css.map": "/react-hilton-assessment/static/css/main.761f52a5.chunk.css.map"
+  }
+}
