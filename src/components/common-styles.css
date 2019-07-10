@@ -1,0 +1,20 @@
+.room-container {
+  display: inline-block;
+  border: 2px solid #cacaca;
+  margin: 15px;
+  border-radius: 6px;
+}
+
+.room-header {
+  padding: 3px;
+  background-color: #cacaca;
+}
+
+.room-table {
+  font-size: 15px;
+  padding: 5px;
+}
+
+.room-disabled {
+  background-color: #cacaca;
+}
